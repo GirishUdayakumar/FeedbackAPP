@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FeedbackApp</string>
+    <string name="str_login">Login</string>
+    <string name="str_reg">Registration</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="str_usnm">Enter Username</string>
+    <string name="str_passwd">Enter Password</string>
+    <string name="str_repass">Enter Password Again</string>
+    <string name="str_Fnm">Enter First Name</string>
+    <string name="str_lsm">Enter Last Name</string>
+    <string name="str_email">Enter Email ID</string>
+    <string name="str_phone">Enter Phone Number</string>
+    <string name="str_register">Register</string>
+</resources>
